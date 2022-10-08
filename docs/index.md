@@ -11,7 +11,7 @@ Nos dias 19 a 23 de setembro de 2022, o Observatório Obstétrico Brasileiro pro
 
 - [Web Scraping](web_scraping/web_scraping.html){:target="_blank"}
 
-- [Introdução ao Shiny](){:target="_blank"}
+- [Introdução ao Shiny](introducao_shiny/shiny.html){:target="_blank"}
 
 - [Python em R](python_r/pyr.html){:target="_blank"}
 
